@@ -1,0 +1,52 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+env/
+.venv/
+ENV/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# PyTorch and model outputs
+*.pth
+*.pt
+*.ckpt
+checkpoints/
+runs/
+wandb/
+
+# SUMO simulation outputs
+output/
+logs/
+*.sumocfg
+*.net.xml
+*.rou.xml
+*.tripinfo.xml
+
+# Data files (if large or generated)
+data/
+datasets/
+*.h5
+*.hdf5
+*.npy
+*.csv
+
+# Environment files (if containing secrets)
+.env
+.env.local
+
+# IDE and editors
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS generated files
+.DS_Store
+Thumbs.db
+requirements.txt
