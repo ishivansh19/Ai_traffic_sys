@@ -1,0 +1,42 @@
+[
+  {
+    "id": "0a6a69ac-f753-4185-be04-5703d20ef2cd",
+    "class": "person",
+    "confidence": 0.899,
+    "lane": 2,
+    "location": [
+      98.3,
+      153.5
+    ]
+  },
+  {
+    "id": "7e77c361-dd2a-4694-85c1-1c61399977ee",
+    "class": "car",
+    "confidence": 0.789,
+    "lane": 1,
+    "location": [
+      37.5,
+      141.0
+    ]
+  },
+  {
+    "id": "1622abca-44a5-4abb-803a-e6cccc792f89",
+    "class": "car",
+    "confidence": 0.699,
+    "lane": 3,
+    "location": [
+      140.3,
+      148.8
+    ]
+  },
+  {
+    "id": "2cf2fe2d-bfa6-4af4-ae1c-a6a121d26d3b",
+    "class": "car",
+    "confidence": 0.697,
+    "lane": 3,
+    "location": [
+      172.8,
+      148.7
+    ]
+  }
+]

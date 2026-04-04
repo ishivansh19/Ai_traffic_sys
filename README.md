@@ -1,3 +1,4 @@
+Author: Shivansh Mishra
 AI-Driven Adaptive Traffic Signal Control System
 
 1. Project Overview
